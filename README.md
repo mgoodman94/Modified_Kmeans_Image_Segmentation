@@ -25,7 +25,6 @@ Modifies the traditional k-means clustering algorithm to consider spatial inform
   - "smoothing_iter" to the desired smoothing factor
   - "max_iter" to the desired number of iterations until termination
   - "K" to the desired number of clusters
-- note: default settings in the notebook will reproduce paper results
 - Run the notebook
 
 ### Author
